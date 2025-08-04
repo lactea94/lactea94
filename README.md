@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--header-->
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2&fontColor=0F1035&height=180&section=header&text=Hi🖐+ByeongWan's+Github!&fontSize=30"/>
