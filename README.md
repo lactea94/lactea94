@@ -1,9 +1,7 @@
 ## Hi there 👋
 <!--header-->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&fontColor=0F1035&height=200&section=header&text=Hi🖐+ByeongWan's+Github!&fontSize=40"/>
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2&fontColor=0F1035&height=180&section=header&text=Hi🖐+ByeongWan's+Github!&fontSize=30"/>
 </p>
 <!--badge-->
 <p align='center'>
