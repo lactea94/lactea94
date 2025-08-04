@@ -5,6 +5,7 @@
 </p>
 <!--badge-->
 <p aling='center'>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/quddhks4694@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=white"/>
     <a href="https://www.instagram.com/byyung_w/"><img src="https://img.shields.io/badge/byyung_w-#FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
     <a href="https://devstackingdocs.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-#000000?style=flat-square&logo=tistory&logoColor=white"/></a>
