@@ -1,6 +1,6 @@
 <!--header-->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&fontColor=0F1035&height=180&section=header&text=Hi🖐+ByeongWan's+Github!&fontSize=30"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&fontColor=0F1035&fontAlign=30&height=180&section=header&text=Hi🖐+ByeongWan's+Github!&fontSize=30"/>
 </p>
 <!--badge-->
 <p align='center'>
