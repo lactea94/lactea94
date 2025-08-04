@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+---
+<!--header-->
+<p align='center'>
+    <img src="https//capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&fontColor=0F1035&height=200&section=header&text=Hi🖐+ByeongWan's+Github!&fontSize=40"/>
+</p>
+<!--badge-->
+<p>
+    <img src = "https://img.shields.io/badge/quddhks4694@gmail.com-?style=flat-square&logo=gmail&logoColor=white"/>
+    <a href="https://www.instagram.com/byyung_w/"><img src = "https://img.shields.io/badge/byyung_w-?style=flat-square&logo=instagram&logoColor=white"/></a>
+    <a href="https://devstackingdocs.tistory.com/"><img src = "https://img.shields.io/badge/Tech Blog-?style=flat-square&logo=tistory&logoColor=white"/></a>
+</p>
 <!--
 **lactea94/lactea94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
