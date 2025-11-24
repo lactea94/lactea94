@@ -61,10 +61,10 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </div>
 
-## Top Language
+## :heartpulse: Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactea94&layout=compact)
 
-## Github stat
+## :flushed: Github stat
 [![Byeongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lactea94)](https://github.com/lactea94/github-readme-stats)
 <!--
 **lactea94/lactea94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
