@@ -22,8 +22,8 @@
 <br/>
 <br/>
 
-## 🔧Tech Stack
-### Language
+## 📚Tech Stack
+### :computer: Language
 <div> 
     <!--Java-->
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </div>
 
-### Framework
+### :framed_picture: Framework
 <div>
     <!--Spring-->
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </div>
 
-## Tool
+### :wrench: Tool
 <div>
     <!--Git-->
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -62,7 +62,7 @@
 </div>
 
 ## Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactea94&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactea94&layout=compact)
 
 ## Github stat
 [![Byeongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lactea94)](https://github.com/lactea94/github-readme-stats)
