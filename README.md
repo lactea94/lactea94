@@ -15,15 +15,15 @@
 
 <!--boby-->
 ## 🐱Introduce
-#### 안녕하세요, 풀스택 개발자 김병완입니다.<br/>
-#### :factory: Smart Factory 개발을 3년동안 진행하고 현재는 :moneybag: 금융 IT 개발을 주 업무로 진행하고 있습니다. <br/>
-#### :watch: 비전공자로 개발자 세게로 뛰어든 slow-starter로 성장하고 있으며 <br/>
-#### :telescope: 한분야를 깊게 파는 것도, 다양한 지식을 받아드리는 것도 좋아하는 사람으로서 길을 찾고 있는 중입니다.
+##### 안녕하세요, 풀스택 개발자 김병완입니다.<br/>
+##### :factory: Smart Factory 개발을 3년동안 진행하고 현재는 :moneybag: 금융 IT 개발을 주 업무로 진행하고 있습니다. <br/>
+##### :watch: 비전공자로 개발자 세게로 뛰어든 slow-starter로 성장하고 있으며 <br/>
+##### :telescope: 한분야를 깊게 파는 것도, 다양한 지식을 받아드리는 것도 좋아하는 사람으로서 길을 찾고 있는 중입니다.
 <br/>
 <br/>
 
 ## 📚Tech Stack
-### :computer: Language
+#### :computer: Language
 <div> 
     <!--Java-->
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </div>
 
-### :framed_picture: Framework
+#### :framed_picture: Framework
 <div>
     <!--Spring-->
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </div>
 
-### :wrench: Tool
+#### :wrench: Tool
 <div>
     <!--Git-->
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
