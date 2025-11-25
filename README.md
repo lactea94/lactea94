@@ -48,7 +48,7 @@
     <!--React-->
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <!--.Net-->
-    <img src="https://img.shields.io/badge/.Net-61DAFB?style=flat-square&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 </div>
 
 ### :wrench: Tool
