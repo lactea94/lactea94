@@ -47,6 +47,8 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <!--React-->
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <!--.Net-->
+    <img src="https://img.shields.io/badge/.Net-61DAFB?style=flat-square&logo=dotnet&logoColor=white"/>
 </div>
 
 ### :wrench: Tool
