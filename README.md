@@ -64,7 +64,7 @@
 </div>
 
 ## :heartpulse: Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactea94&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lactea94&layout=compact)](https://github.com/lactea94/github-readme-stats)
 
 ## :flushed: Github stat
 [![Byeongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lactea94)](https://github.com/lactea94/github-readme-stats)
